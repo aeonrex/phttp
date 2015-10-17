@@ -1,0 +1,27 @@
+{
+  "name": "phttp",
+  "version": "1.0.0",
+  "description": "Peer-to-peer HyperText Transfer Protocol",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t4y/phttp.git"
+  },
+  "author": "Taylor F Kisor-Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t4y/phttp/issues"
+  },
+  "homepage": "https://github.com/t4y/phttp#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "request": "^2.65.0"
+  }
+}
